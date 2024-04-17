@@ -136,11 +136,14 @@ footer:
 # Google Fonts https://fonts.google.com/, add as many as you need
 googlefonts:
  # - url : # 'https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap'
+  - url: https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap
+  - url: https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100..900;1,100..900&display=swap
+
 
 # Theme and colors
 chulapa-skin: 
   highlight     :  # default["default"]
-  skin         :  # Optional predefined skins
+  skin          :  hootstrap # Optional predefined skins
   autothemer    :  true # Bool: Use autotheming
   vars          :    
     primary     : "#ffbe98" #default ["#007bff"] - Bootstrap blue
