@@ -10,3 +10,12 @@ og_image: https://raw.githubusercontent.com/Neutral-Ion/neutral-ion.github.io/ma
 It's easy to get lost in the present, and think this is how things have always been. But what happens when we peel back the present, and reveal a vibrant past underneath? What is it like to stand in a place and experience all of its incarnations at once, to truly feel its journey into our current moment?
 
 Lost in Transit is an exploration of our changing world, an effort to understand how our past continues to interact with our present and future.
+
+<div class="jumbotron">
+  <h1 class="display-4">Welcome!</h1>
+  <p class="lead">It's easy to get lost in the present, and think this is how things have always been. But what happens when we peel back the present, and reveal a vibrant past underneath? What is it like to stand in a place and experience all of its incarnations at once, to truly feel its journey into our current moment?</p>
+  <hr class="my-4">
+  <p>Lost in Transit is an exploration of our changing world, an effort to understand how our past continues to interact with our present and future.</p>
+  <a class="btn btn-primary btn-lg" href="#" role="button">Go to posts</a>
+</div>
+
