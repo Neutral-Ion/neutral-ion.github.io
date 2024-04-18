@@ -1,8 +1,8 @@
 ---
 layout: landingpage
 title: Lost in Transit
-header_type: base
-subtitle: Starter pack
+header_type: splash
+subtitle: Exploring the lost worlds of our transportation systems
 ---
 
 Click [**Use this template**](https://github.com/dieghernan/chulapa-101/generate) button above for cloning this repo and get started with [Chulapa Jekyll theme](https://github.com/dieghernan/chulapa).
