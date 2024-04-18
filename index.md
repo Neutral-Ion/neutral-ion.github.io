@@ -1,7 +1,7 @@
 ---
-layout: default
-title: Chulapa on remote
-header_type: hero
+layout: landingpage
+title: Lost in Transit
+header_type: base
 subtitle: Starter pack
 ---
 
