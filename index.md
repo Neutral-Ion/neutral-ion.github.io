@@ -2,23 +2,10 @@
 layout: landingpage
 title: Lost in Transit
 header_type: splash
+header_img: https://github.com/Neutral-Ion/neutral-ion.github.io/blob/main/assets/site%20files/tracks%20in%20the%20forest.jpg?raw=true
 subtitle: Exploring the lost worlds of our transportation systems
 ---
 
-Click [**Use this template**](https://github.com/dieghernan/chulapa-101/generate) button above for cloning this repo and get started with [Chulapa Jekyll theme](https://github.com/dieghernan/chulapa).
+It's easy to get lost in the present, and think this is how things have always been. But what happens when we peel back the present, and reveal a vibrant past underneath? What is it like to stand in a place and experience all of its incarnations at once, to truly feel its journey into our current moment?
 
-Contains basic configuration to get you a site with:
-
-- Sample posts and [paginated blog index](./blog/).
-- Sample collection with Markdown and kramdown cheatsheets and [collection index](./cheatsheets).
-- Archive pages for posts grouped by year, category, and tag.
-- Demo page with the different Bootstrap components and how they look with the actual skin settings.
-- Sample 404 page.
-- Site search with Lunr.
-- Sample `_config` with minimal configuration. `primary` color is set to <span class="text-primary">LightSkyBlue</span> and `autothemer` is enabled. [Learn how to customize your site](https://dieghernan.github.io/chulapa/docs/03-theming).
-- Sample `algolia-search.yml` for using Algolia+GitHub Actions.
-- Sample files for extending the theme with your own scripts and css.
-
-On addition, `jekyll-sitemap` generates your sitemap on [./sitemap.xml](./sitemap.xml), and Chulapa generates an Atom feed on [./atom.xml](./atom.xml) and a RSS 2.0 feed on [./rss.xml](./rss.xml).
-
-[Configure as necessary](https://dieghernan.github.io/chulapa/docs/02-config) and replace sample content with your own.
+Lost in Transit is an exploration of these capsules of the past, an effort to understand how our past continues to interact with our present and future.
