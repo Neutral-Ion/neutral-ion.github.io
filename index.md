@@ -9,10 +9,11 @@ og_image: https://raw.githubusercontent.com/Neutral-Ion/neutral-ion.github.io/ma
 
 <div style="background:transparent !important" class="jumbotron">
   <span class="border border-white"></span>
-  <h1 class="display-4">Welcome! [test text]</h1>
+  <h1 class="display-4">Welcome! [test tex]</h1>
   <p class="lead">It's easy to get lost in the present, and think this is how things have always been. But what happens when we peel back the present, and reveal a vibrant past underneath? What is it like to stand in a place and experience all of its incarnations at once, to truly feel its journey into our current moment?</p>
   <hr class="my-4">
   <p>Lost in Transit is an exploration of our changing world, an effort to understand how our past continues to interact with our present and future.</p>
   <a class="btn btn-primary btn-lg" href="blog" role="button">Go to posts</a>
+  <span class="border border-white"></span>
 </div>
 
