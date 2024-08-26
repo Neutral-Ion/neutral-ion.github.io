@@ -2,7 +2,7 @@
 layout: landingpage
 title: Lost in Transit
 header_type: splash
-header_img: https://github.com/Neutral-Ion/neutral-ion.github.io/blob/main/assets/site%20files/tracks%20in%20the%20forest.jpg?raw=true
+header_img: https://github.com/Neutral-Ion/neutral-ion.github.io/blob/5dd73aa87623d38cef1dd2cc4c0bef9280b9921e/assets/site%20files/PXL_20240824_220006085.jpg
 subtitle: Exploring the lost worlds of our transportation systems
 ---
 
