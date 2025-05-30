@@ -7,6 +7,17 @@ last_modified_at: 2025-05-29
 tags: [random, manuscript]
 ---
 
+<figure class="mt-4">
+  <audio controls class="w-100">
+    <source src="/assets/post-media/1_arrow/condensed_arrow_journey.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+  <figcaption class="mt-2 text-muted" style="font-style: italic;">
+    A condensed Arrow journey in sound. The last 20 seconds include the horn and station announcement.
+  </figcaption>
+</figure>
+
+
 NJTransit’s Arrow cars are, I feel, incredible underappreciated. Yes, they’re old (44 years), prone to breakdowns, and lack the electronic signage of the newer trains.
 
 But the Arrow cars have character. They’re self-propelled – and self-propelled trains are honestly just much cooler than any locomotive-pulled train (what’s pulling it??!). Long Island Railroad and Metro-North cars end up looking like a bigger version of a subway, which the Arrows avoid with their distinct ribbed stainless steel exteriors. They’re something that evokes commuter rail. And despite its commuter purpose, the Arrow cars are standing-friendly. With handles on every seat, and plenty of open space in the middle of the car, if I had to pick any train to be packed into and stand in for 45 minutes, it would be the Arrows. When riding NJTransit, there will always be a time when there are no seats available – would you want to be crammed into the tight aisles of a Comet or stand with pride in the center-door vestibule?
