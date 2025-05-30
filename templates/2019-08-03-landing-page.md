@@ -19,6 +19,7 @@ author:
       icon: "fab fa-facebook"
     - url: https://www.linkedin.com
       icon: "fab fa-linkedin"
+include_on_search: false
 ---
 
 A simple landing page with an image on top. Transparencies (`png`) works better on this combination.

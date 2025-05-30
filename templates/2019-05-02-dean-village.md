@@ -6,6 +6,7 @@ categories: [picture]
 tags: [landscape, trips, downtown, edinburgh, kramdown, bootstrap, wikipedia, demo, image]
 author:
   location: "Dean Village, Edinburgh"
+include_on_search: false
 ---
 
 

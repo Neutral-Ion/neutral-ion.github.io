@@ -2,6 +2,7 @@
 title: To be
 subtitle: ... or not to be?
 tags: [wikipedia, manuscript]
+include_on_search: false
 ---
 
 To be, or not to be--that is the question:
