@@ -4,6 +4,7 @@ subtitle: An ode to the retiring trains
 header_type: "hero"
 header_img : "https://www.losttransit.com/assets/post-media/1_arrow/dinky_boarding.jpg"
 last_modified_at: 2025-05-29
+excerpt: "Bidding farewell to NJTransit’s underappreciated Arrow cars."
 tags: [random, manuscript]
 ---
 
