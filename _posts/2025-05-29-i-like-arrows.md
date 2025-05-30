@@ -15,11 +15,11 @@ Plus the age of the Arrow cars has its own perks. They aren’t as rickety as th
 
 The Arrows just have far more character than the soulless blue interiors of the “Squarebob” Multilevels. I mean, look at it. When I see the faux wood paneling and brown faux leather seats, I know I’m in NJTransit. And when I'm waking up bleary-eyed to catch the 6:42am train, the one thing I'm looking forward to is the class Arrow to fly through the snowy landscape, as the sun begins to rise on Jersey.
 
-<video controls class="img-fluid mt-4" style="max-width: 100%;">
+<video controls class="img-fluid mt-4" style="max-width: 80%;">
   <source src="/assets/post-media/1_arrow/scrapped.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 Sometimes, I pass by a scrapyard in Avenel, where some days I can see retired Arrows. The NJTransit logo emblazoned on the front of the cars waves at me, amidst the metal shreds surrounding the doomed cars. I watch the retired trains till they leave my sight, as I’m whisked away by their replacements.
 
-<img src="/assets/post-media/1_arrow/farewell_landscape.jpg" alt="Farewell Arrow train" class="img-fluid mt-4" />
+![Farewell to the Arrow train](https://www.losttransit.com/assets/post-media/1_arrow/farewell_landscape.jpg)
