@@ -1,6 +1,8 @@
 ---
 title: I Like Arrows
 subtitle: An ode to the retiring trains
+header_type: "hero"
+header_img : "https://raw.githubusercontent.com/Neutral-Ion/neutral-ion.github.io/refs/heads/main/assets/post-media/1_arrow/dinky_boarding.jpg"
 last_modified_at: 2025-05-29
 tags: [random, manuscript]
 ---
