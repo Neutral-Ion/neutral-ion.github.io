@@ -35,7 +35,7 @@ https://www.losttransit.com/assets/post-media/1_arrow/boarding.jpg" %}
   Several of these images show the train in its heritage livery, with the <em>NJDOT</em> and <em>Penn Central</em> logos visible.
 </p>
 
-Plus the age of the Arrow cars has its own perks. They aren’t as rickety as the ugly Comets, but you can *feel* the electrical motors humming when the train accelerates, each vibration reminding you that *yes, you are inside a steel shell hurtling at 90 miles per hour*, and *yes, that is awesome*. Couple that with the iconic, nearly nostalgic horn, and this is the consummate train experience. The newer Multilevels are just too bland, too polished to inspire this degree of feeling.
+Plus the age of the Arrow cars has its own perks. They aren’t as rickety as the ugly Comets, but you can *feel* the electrical motors humming when the train accelerates, each vibration reminding you that *yes, you are inside a steel shell hurtling at 90 miles per hour*, and *yes, that is awesome*. Couple that with the iconic horn, and this is the consummate train experience. The newer Multilevels are just too bland, too polished to inspire this degree of feeling.
 
 The Arrows just have far more character than the soulless blue interiors of the “Squarebob” Multilevels. I mean, look at it. When I see the faux wood paneling and brown faux leather seats, I know I’m in NJTransit. And when I'm waking up bleary-eyed to catch the 6:42am train, the one thing I'm looking forward to is the class Arrow to fly through the snowy landscape, as the sun begins to rise on Jersey.
 
