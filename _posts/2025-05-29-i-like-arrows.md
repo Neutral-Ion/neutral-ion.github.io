@@ -3,7 +3,7 @@ title: I Like Arrows
 subtitle: An ode to the retiring trains
 header_type: "hero"
 header:
-  overlay_image: "/assets/post-media/1_arrow/dinky_boarding.jpg"
+  overlay_image: "https://www.losttransit.com/assets/post-media/1_arrow/dinky_boarding.jpg"
   overlay_filter: 0.45
   caption: "Dinky boarding at Princeton"
 last_modified_at: 2025-05-29
