@@ -22,20 +22,19 @@ NJTransit’s Arrow cars are, I feel, incredible underappreciated. Yes, they’r
 
 But the Arrow cars have character. They’re self-propelled – and self-propelled trains are honestly just much cooler than any locomotive-pulled train (what’s pulling it??!). Long Island Railroad and Metro-North cars end up looking like a bigger version of a subway, which the Arrows avoid with their distinct ribbed stainless steel exteriors. They’re something that evokes commuter rail. And despite its commuter purpose, the Arrow cars are standing-friendly. With handles on every seat, and plenty of open space in the middle of the car, if I had to pick any train to be packed into and stand in for 45 minutes, it would be the Arrows. When riding NJTransit, there will always be a time when there are no seats available – would you want to be crammed into the tight aisles of a Comet or stand with pride in the center-door vestibule?
 
-{% assign arrowgallery = "/assets/post-media/1_arrow/pc_arrow_1.jpg,
-  /assets/post-media/1_arrow/pc_arrow_2.jpg,
-  /assets/post-media/1_arrow/pc_arrow_3_interior.jpg,
-  /assets/post-media/1_arrow/pc_arrow_4_info.jpg,
-  /assets/post-media/1_arrow/boarding.jpg" %}
+{% assign arrowgallery = "https://www.losttransit.com/assets/post-media/1_arrow/pc_arrow_1.jpg,
+https://www.losttransit.com/assets/post-media/1_arrow/pc_arrow_2.jpg,
+https://www.losttransit.com/assets/post-media/1_arrow/pc_arrow_3_interior.jpg,
+https://www.losttransit.com/assets/post-media/1_arrow/pc_arrow_4_info.jpg,
+https://www.losttransit.com/assets/post-media/1_arrow/boarding.jpg" %}
 
 <!-- Masonry Gallery -->
 <h3 class="mt-5">Photo Gallery</h3>
-{% include snippets/masonry.html internal=arrowgallery %}
+{% include snippets/masonry.html external=arrowgallery %}
 
 <!-- Carousel -->
 <h3 class="mt-5">Image Carousel</h3>
-{% include snippets/carousel.html internal=arrowgallery controls="true" indicators="true" interval=3000 %}
-
+{% include snippets/carousel.html external=arrowgallery controls="true" indicators="true" interval=3000 %}
 
 Plus the age of the Arrow cars has its own perks. They aren’t as rickety as the ugly Comets, but you can *feel* the electrical motors humming when the train accelerates, each vibration reminding you that *yes, you are inside a steel shell hurtling at 90 miles per hour*, and *yes, that is awesome*. Couple that with the iconic, nearly nostalgic horn, and this is the consummate train experience. The newer Multilevels are just too bland, too polished to inspire this degree of feeling.
 
