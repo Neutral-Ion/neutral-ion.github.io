@@ -17,8 +17,10 @@
 <div class="chulapa-masonry mx-2 mt-2">
   {%- for brick in bricks limit: end -%}
   <div itemscope itemtype="https://schema.org/ImageObject">
-  <img loading="lazy" class="chulapa-masonry-brick" src="{{- brick | absolute_url -}}" 
-  alt="Masonry Item #{{- forloop.index -}}" itemprop="contentUrl" >
+    <a href="{{ brick | absolute_url }}" target="_blank">
+      <img loading="lazy" class="chulapa-masonry-brick" src="{{ brick | absolute_url }}" 
+      alt="Masonry Item #{{ forloop.index }}" itemprop="contentUrl">
+    </a>
   </div>
   {%- endfor -%}
 </div>

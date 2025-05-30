@@ -29,12 +29,7 @@ https://www.losttransit.com/assets/post-media/1_arrow/pc_arrow_4_info.jpg,
 https://www.losttransit.com/assets/post-media/1_arrow/boarding.jpg" %}
 
 <!-- Masonry Gallery -->
-<h3 class="mt-5">Photo Gallery</h3>
 {% include snippets/masonry.html external=arrowgallery %}
-
-<!-- Carousel -->
-<h3 class="mt-5">Image Carousel</h3>
-{% include snippets/carousel.html external=arrowgallery controls="true" indicators="true" interval=3000 %}
 
 Plus the age of the Arrow cars has its own perks. They aren’t as rickety as the ugly Comets, but you can *feel* the electrical motors humming when the train accelerates, each vibration reminding you that *yes, you are inside a steel shell hurtling at 90 miles per hour*, and *yes, that is awesome*. Couple that with the iconic, nearly nostalgic horn, and this is the consummate train experience. The newer Multilevels are just too bland, too polished to inspire this degree of feeling.
 
