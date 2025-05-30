@@ -30,6 +30,9 @@ https://www.losttransit.com/assets/post-media/1_arrow/boarding.jpg" %}
 
 <!-- Masonry Gallery -->
 {% include snippets/masonry.html external=arrowgallery %}
+<p class="text-muted text-center mt-3">
+  Several of these images show the train in its <strong>heritage livery</strong>, with both the <em>NJDOT</em> and <em>Penn Central</em> logos proudly displayed.
+</p>
 
 Plus the age of the Arrow cars has its own perks. They aren’t as rickety as the ugly Comets, but you can *feel* the electrical motors humming when the train accelerates, each vibration reminding you that *yes, you are inside a steel shell hurtling at 90 miles per hour*, and *yes, that is awesome*. Couple that with the iconic, nearly nostalgic horn, and this is the consummate train experience. The newer Multilevels are just too bland, too polished to inspire this degree of feeling.
 
